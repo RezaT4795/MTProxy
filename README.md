@@ -16,7 +16,7 @@ yum groupinstall "Development Tools"
 
 Clone the repo:
 ```bash
-git clone https://github.com/TelegramMessenger/MTProxy
+git clone https://github.com/RezaT4795/MTProxy
 cd MTProxy
 ```
 
